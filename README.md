@@ -1,14 +1,4 @@
 ```html
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-</head>
-<body>
 <h1 id="rosemary-mccloskey">Rosemary McCloskey</h1>
 <p>github.com/rmcclosk | rmcclosk.math@gmail.com | 604-219-0157</p>
 <h2 id="objective">Objective</h2>
@@ -256,6 +246,4 @@
 <p>Poon, AFY, RH Liang, JB Joy, T Nguyen, <strong>RM</strong> <strong>McCloskey</strong>, M Krajden, JSG Montaner, and PR Harrigan. 2014. “Global Origin and Transmission of HCV NS3 Substitution Q80K That Is Associated with Lower Simeprevir Susceptibility.”</p>
 <p>Poon, AFY, LW Walker, H Murray, <strong>RM</strong> <strong>McCloskey</strong>, PR Harrigan, and RH Liang. 2013. “Mapping the Shapes of Phylogenetic Trees from Human and Zoonotic RNA Viruses.” <em>PLoS ONE</em> 8 (11): e78122.</p>
 </div>
-</body>
-</html>
 ```
