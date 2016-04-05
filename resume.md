@@ -8,16 +8,16 @@ To launch a challenging and fulfilling career in software development.
 
 ## Education
 
------------------------------------------------------------------------ ------------------------
-M.Sc. Bioinformatics Candidate \                                             Sep. 2015 - present
+------------------------------------------------------- ------------------------
+M.Sc. Bioinformatics Candidate \                             Sep. 2015 - present
 CIHR Strategic Training Program in Bioinformatics \
 90\% Average \
 University of British Columbia 
 
-B.Sc. Mathematics Honours, Computer Science Minor \                        Sep. 2009 - June 2014
+B.Sc. Mathematics Honours, Computer Science Minor \        Sep. 2009 - June 2014
 3.98 GPA \
 Simon Fraser University
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## Skills
 
@@ -35,8 +35,8 @@ Simon Fraser University
 
 ### Mathematics and statistics
 
-  - Strong formal math background including calculus, linear algebra, and
-    discrete math.
+  - Strong formal mathematics background including calculus, linear algebra,
+    and discrete mathematics.
   - Experience performing statistical tests, fitting models, applying Bayesian
     inference, and creating informative visualizations of data.
 
@@ -54,42 +54,45 @@ Simon Fraser University
 
 ## Experience
 
-------------------------------------------------------------------------- ----------------------
-M.Sc. Candidate, Bioinformatics                                              May. 2015 - present
+--------------------------------------------------------- ----------------------
+M.Sc. Candidate, Bioinformatics \                            May. 2015 - present
+BC Centre for Excellence in HIV/AIDS                                         
 
-BC Centre for Excellence in HIV/AIDS                                                         
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
                                                                                              
-- Masters thesis project under the supervision of Dr. Art Poon (Medicine, University of British Columbia).
+- Masters thesis project under the supervision of Dr. Art Poon (Medicine,
+  University of British Columbia).
 - Developed a novel method.
 - Implemented method as open source C software (github.com/rmcclosk/netabc).
 
-------------------------------------------------------------------------- ----------------------
-Research Assistant                                                           May. 2015 - present
+--------------------------------------------------------- ----------------------
+Research Assistant \                                       May. 2015 - present \
+Bioinformatics Training Program, UBC                        Sep. 2014 - May 2015
 
-Bioinformatics Training Program, UBC                                        Sep. 2014 - May 2015
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 - Two four-month rotations under Dr. Ryan Morin (Molecular Biology and
   Biochemistry, Simon Fraser University) and Dr. Sara Mostafavi (Statistics and
 Medical Genetics, University of British Columbia).
 - Performed bioinformatic analyses of genomic and epigenetic data.
 
-------------------------------------------------------------------------- ----------------------
-Research Assistant                                                               May - Dec. 2012
+--------------------------------------------------------- ----------------------
+Research Assistant \                                             May - Dec. 2012
+BC Centre for Excellence in HIV/AIDS
 
-BC Centre for Excellence in HIV/AIDS                                             Jan. - Aug 2014
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-- Performed extensive computational experimentation for publication-level bioinformatics research.
+- Performed extensive computational experimentation for publication-level
+  bioinformatics research.
 - Produced two first-author peer-reviewed publications.
-- Junior developer on Python/Django software project Kive (github.com/cfe-lab/Kive).
+- Junior developer on Python/Django software project Kive
+  (github.com/cfe-lab/Kive).
 
-------------------------------------------------------------------------- ----------------------
-Research Assistant                                                               May - Aug. 2011
-
+--------------------------------------------------------- ----------------------
+Research Assistant \                                             May - Aug. 2011
 Mathematics Department, Simon Fraser University
-------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 - Four month co-op research term with Drs. Marni Mishna and Cedric Chauve
   (Mathematics, Simon Fraser University).
@@ -97,47 +100,50 @@ Mathematics Department, Simon Fraser University
   structures.
 
 \renewcommand{\defaultaddspace}{\olddefaultaddspace}
-## Awards
+## Awards and Scholarships
 
----------------------------------------------------------------------- -------------------------
-Department of Statistics Award for Data Science \                                      June 2015
+------------------------------------------------------ -------------------------
+Department of Statistics Award for Data Science \                      June 2015
 University of British Columbia \
 
-Strategic Training Program in Bioinformatics Scholarship \                   Sep. 2014 - present 
+Strategic Training Program in Bioinformatics                 Sep. 2014 - present 
+    Scholarship \
 Canadian Institutes of Health Research
 
-Walter C Koerner Fellowship \                                              Sep. 2014 - May. 2015 
+Walter C Koerner Fellowship \                              Sep. 2014 - May. 2015 
 University of British Columbia
 
-NSERC Canadian Graduate Scholarship - Masters \                            Sep. 2014 - Aug. 2015 
+NSERC Canadian Graduate Scholarship - Masters \            Sep. 2014 - Aug. 2015 
 University of British Columbia
 
-Academic Scholarship, Basic Sciences \                                                 Apr. 2013   
+Academic Scholarship, Basic Sciences \                                 Apr. 2013   
 Canadian Conference on HIV/AIDS Research
 
-New Investigator Award \                                                               Mar. 2013 
-Conference on Retroviruses and Opportunistic Infections
+New Investigator Award \                                               Mar. 2013 
+Conference on Retroviruses and Opportunistic 
+    Infections
 
-Vice-President Research Undergraduate Student Research Award \                   May - Aug. 2012
-Simon Fraser University                                                         Jan. - Apr. 2014
+Vice-President Research Undergraduate Student \                  May - Aug. 2012
+    Research Award \
+Simon Fraser University                                         Jan. - Apr. 2014
 
-NSERC Undergraduate Student Research Award \                                     May - Aug. 2011
+NSERC Undergraduate Student Research Award \                     May - Aug. 2011
 Simon Fraser University
 
-Undergraduate Open Scholarship \                                           Sep. 2010 - Dec. 2013
+Undergraduate Open Scholarship \                           Sep. 2010 - Dec. 2013
 Simon Fraser University
 
-Alumni Scholarship \                                                       Sep. 2010 - Sep. 2011
+Alumni Scholarship \                                       Sep. 2010 - Sep. 2011
 Simon Fraser University
 
-Kennith M Strand Entrance Scholarship \                                    Sep. 2009 - Apr. 2010
+Kennith M Strand Entrance Scholarship \                    Sep. 2009 - Apr. 2010
 Simon Fraser University
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## Publications
 \small
 
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 [@joy2016spread]
 
 [@mccloskey2015global]
@@ -153,25 +159,24 @@ Simon Fraser University
 [@poon2013mapping]
 
 [@mann2013ability]
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## Oral Presentations
 
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 [@mccloskey2016phylogenetic]
 
 [@mccloskey2013reconstructing]
 
 [@mccloskey2013statistical]
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## Poster Presentations
 
-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 [@joy2015phylogenetic]
 
 [@poon2014global]
 
 [@mccloskey2013evaluation]
-------------------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------
