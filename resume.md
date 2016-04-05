@@ -62,31 +62,38 @@ BC Centre for Excellence in HIV/AIDS
                                                                                              
 - Masters thesis project under the supervision of Dr. Art Poon (Medicine,
   University of British Columbia).
-- Developed a novel method.
+- Developed a Bayesian inference method using HIV sequence data to investigate
+  properties of human contact networks.
 - Implemented method as open source C software (github.com/rmcclosk/netabc).
 
 --------------------------------------------------------- ----------------------
-Research Assistant \                                       May. 2015 - present \
-Bioinformatics Training Program, UBC                        Sep. 2014 - May 2015
+Research Assistant \                                        Sep. 2014 - May 2015
+Bioinformatics Training Program, UBC                        
 
 --------------------------------------------------------------------------------
 
 - Two four-month rotations under Dr. Ryan Morin (Molecular Biology and
   Biochemistry, Simon Fraser University) and Dr. Sara Mostafavi (Statistics and
-Medical Genetics, University of British Columbia).
-- Performed bioinformatic analyses of genomic and epigenetic data.
+  Medical Genetics, University of British Columbia).
+- Performed bioinformatic analyses of genetic and epigenetic data pertaining to
+  cancer and Alzheimer's research.
+- Developed web interface using *shiny* framework to visualize changes in
+  mutation frequency over time.
 
 --------------------------------------------------------- ----------------------
-Research Assistant \                                             May - Dec. 2012
-BC Centre for Excellence in HIV/AIDS
+Research Assistant \                                           May - Dec. 2012 \
+BC Centre for Excellence in HIV/AIDS                            Jan. - Aug. 2014
 
 --------------------------------------------------------------------------------
 
+- Two eight-month co-op research assistantships with Dr. Art Poon (Medicine,
+  University of British Columbia).
 - Performed extensive computational experimentation for publication-level
-  bioinformatics research.
-- Produced two first-author peer-reviewed publications.
-- Junior developer on Python/Django software project Kive
-  (github.com/cfe-lab/Kive).
+  bioinformatics research on HIV and hepatitis C phylogenetics.
+- Produced two first-author peer-reviewed publications with no formal training
+  in biology or bioinformatics.
+- Junior developer on Python/Django software project for tracking
+  bioinformatics pipelines (github.com/cfe-lab/Kive).
 
 --------------------------------------------------------- ----------------------
 Research Assistant \                                             May - Aug. 2011
