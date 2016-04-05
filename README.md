@@ -1,3 +1,5 @@
+[Download PDF](resume.pdf)
+
 <h1 id="rosemary-mccloskey">Rosemary McCloskey</h1>
 <p>github.com/rmcclosk | rmcclosk.math@gmail.com | 604-219-0157</p>
 <h2 id="objective">Objective</h2>
