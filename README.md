@@ -1,4 +1,3 @@
-```html
 <h1 id="rosemary-mccloskey">Rosemary McCloskey</h1>
 <p>github.com/rmcclosk | rmcclosk.math@gmail.com | 604-219-0157</p>
 <h2 id="objective">Objective</h2>
@@ -246,4 +245,3 @@
 <p>Poon, AFY, RH Liang, JB Joy, T Nguyen, <strong>RM</strong> <strong>McCloskey</strong>, M Krajden, JSG Montaner, and PR Harrigan. 2014. “Global Origin and Transmission of HCV NS3 Substitution Q80K That Is Associated with Lower Simeprevir Susceptibility.”</p>
 <p>Poon, AFY, LW Walker, H Murray, <strong>RM</strong> <strong>McCloskey</strong>, PR Harrigan, and RH Liang. 2013. “Mapping the Shapes of Phylogenetic Trees from Human and Zoonotic RNA Viruses.” <em>PLoS ONE</em> 8 (11): e78122.</p>
 </div>
-```
