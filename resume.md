@@ -4,7 +4,8 @@ github.com/rmcclosk | rmcclosk.math@gmail.com | 604-219-0157
 
 ## Objective
 
-To launch a challenging and fulfilling career in software development.
+To use my skills in software development, bioinformatics, and data analysis to
+launch a challenging and fulfilling career.
 
 ## Education
 
@@ -107,6 +108,8 @@ Mathematics Department, Simon Fraser University
   structures.
 
 \renewcommand{\defaultaddspace}{\olddefaultaddspace}
+\newpage
+
 ## Awards and Scholarships
 
 ------------------------------------------------------ -------------------------

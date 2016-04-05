@@ -1,7 +1,7 @@
 <h1 id="rosemary-mccloskey">Rosemary McCloskey</h1>
 <p>github.com/rmcclosk | rmcclosk.math@gmail.com | 604-219-0157</p>
 <h2 id="objective">Objective</h2>
-<p>To launch a challenging and fulfilling career in software development.</p>
+<p>To use my skills in software development, bioinformatics, and data analysis to launch a challenging and fulfilling career.</p>
 <h2 id="education">Education</h2>
 <table>
 <col width="70%" />
@@ -103,6 +103,7 @@
 <li>Four month co-op research term with Drs. Marni Mishna and Cedric Chauve (Mathematics, Simon Fraser University).</li>
 <li>Implemented algorithms in Python for generation and analysis of combinatorial structures.</li>
 </ul>
+<p></p>
 <h2 id="awards-and-scholarships">Awards and Scholarships</h2>
 <table>
 <col width="68%" />
