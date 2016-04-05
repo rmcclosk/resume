@@ -11,16 +11,16 @@ To launch a challenging and fulfilling career in software development.
 Education
 ---------
 
-  -------------------------------------------------- ---------------------
-  M.Sc. Bioinformatics Candidate\                    Sep. 2015 - present
-  CIHR Strategic Training Program in Bioinformatics\ 
-  90% Average\                                       
-  University of British Columbia                     
+-------------------------------------------------- ---------------------
+M.Sc. Bioinformatics Candidate\                    Sep. 2015 - present
+CIHR Strategic Training Program in Bioinformatics\ 
+90% Average\                                       
+University of British Columbia                     
 
-  B.Sc. Mathematics Honours, Computer Science Minor\ Sep. 2009 - June 2014
-  3.98 GPA\                                          
-  Simon Fraser University                            
-  -------------------------------------------------- ---------------------
+B.Sc. Mathematics Honours, Computer Science Minor\ Sep. 2009 - June 2014
+3.98 GPA\                                          
+Simon Fraser University                            
+-------------------------------------------------- ---------------------
 
 Skills
 ------
