@@ -2,12 +2,15 @@
 \usepackage[T1]{fontenc}
 \usepackage[osf]{garamondx}
 \usepackage[backend=biber, maxnames=99]{biblatex}
-\usepackage{fullpage}
+\usepackage[margin=2.5cm]{geometry}
 \usepackage{longtable,booktabs}
+\usepackage{hyperref}
 
 \setcounter{secnumdepth}{0}
 \addbibresource{$bibliography$}
-\renewcommand{\autocite}[1]{\fullcite{#1} \\\hfill\\}
+\renewcommand{\autocite}[1]{\fullcite{#1}}
+\renewcommand{\heavyrulewidth}{0pt}
+\pagestyle{empty}
 
 \begin{document}
 

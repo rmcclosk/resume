@@ -1,15 +1,16 @@
-.SECONDARY:
-
-all: resume.pdf
+all: resume.pdf README.md
 
 clean:
 	rm -f *.xml *.blg *.bcf *.log *.pdf *.bbl
 
-resume.pdf: resume.tex
-	pdflatex $(patsubst %.tex,%,$^)
-	biber $(patsubst %.tex,%,$^)
-	pdflatex $(patsubst %.tex,%,$^)
-	pdflatex $(patsubst %.tex,%,$^)
+%.pdf: %.tex
+	pdflatex $*
+	biber $*
+	pdflatex $*
+	pdflatex $*
 	
-resume.tex: resume.md papers.bib template.tex
-	pandoc --filter pandoc-citeproc --biblio papers.bib --biblatex --template $(word 3,$^) $(word 1,$^) -o $@
+resume.tex: resume.md template.tex refs.bib
+	pandoc --filter pandoc-citeproc --biblatex --biblio refs.bib --template $(word 2,$^) -o $@ $(word 1,$^)
+
+README.md: resume.md
+	pandoc -o $@ $^
