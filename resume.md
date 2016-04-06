@@ -31,7 +31,7 @@ Simon Fraser University
 ### Computing environment
 
   - Five years experience in Linux, including bash scripting.
-  - Familiar with development tools such as gdb, valgrind, Make, autotools.
+  - Familiar with development tools such as gdb, valgrind, Make, autotools, git.
   - Working knowledge of SQL.
 
 ### Mathematics and statistics
