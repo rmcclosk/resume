@@ -25,6 +25,7 @@
 <li>Four years experience using C, Python, and R to develop research software.</li>
 <li>Academic experience with Java for software engineering course project.</li>
 <li>Markup languages: LaTeX, Markdown, HTML+CSS.</li>
+<li>Contributed to projects in Ruby and Javascript+jQuery.</li>
 </ul>
 <h3 id="computing-environment">Computing environment</h3>
 <ul>

@@ -27,6 +27,7 @@ Simon Fraser University
   - Four years experience using C, Python, and R to develop research software.
   - Academic experience with Java for software engineering course project.
   - Markup languages: LaTeX, Markdown, HTML+CSS.
+  - Contributed to projects in Ruby and Javascript+jQuery.
 
 ### Computing environment
 
