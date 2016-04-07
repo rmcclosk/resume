@@ -11,7 +11,7 @@
 <tbody>
 <tr class="odd">
 <td align="left">M.Sc. Bioinformatics Candidate<br />CIHR Strategic Training Program in Bioinformatics<br />90% Average<br />University of British Columbia</td>
-<td align="right">Sep. 2015 - present</td>
+<td align="right">Sep. 2014 - Aug. 2016<br />(expected)</td>
 </tr>
 <tr class="even">
 <td align="left">B.Sc. Mathematics Honours, Computer Science Minor<br />3.98 GPA<br />Simon Fraser University</td>

@@ -10,8 +10,8 @@ launch a challenging and fulfilling career.
 ## Education
 
 ------------------------------------------------------- ------------------------
-M.Sc. Bioinformatics Candidate \                             Sep. 2015 - present
-CIHR Strategic Training Program in Bioinformatics \
+M.Sc. Bioinformatics Candidate \                         Sep. 2014 - Aug. 2016 \
+CIHR Strategic Training Program in Bioinformatics \                   (expected)
 90\% Average \
 University of British Columbia 
 
