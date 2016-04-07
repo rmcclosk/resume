@@ -57,23 +57,15 @@ Simon Fraser University
 ## Experience
 
 --------------------------------------------------------- ----------------------
-M.Sc. Candidate, Bioinformatics \                            May. 2015 - present
+M.Sc. Candidate, Bioinformatics \                            Sep. 2014 - present
 BC Centre for Excellence in HIV/AIDS                                         
 
 --------------------------------------------------------------------------------
                                                                                              
 - Masters thesis project under the supervision of Dr. Art Poon (Medicine,
   University of British Columbia).
-- Developed a Bayesian inference method using HIV sequence data to investigate
-  properties of human contact networks.
-- Implemented method as open source C software (github.com/rmcclosk/netabc).
-
---------------------------------------------------------- ----------------------
-Research Assistant \                                        Sep. 2014 - May 2015
-Bioinformatics Training Program, UBC                        
-
---------------------------------------------------------------------------------
-
+- Implemented a Bayesian inference method investigating properties of human
+  contact networks as open source C software (github.com/rmcclosk/netabc).
 - Two four-month rotations under Dr. Ryan Morin (Molecular Biology and
   Biochemistry, Simon Fraser University) and Dr. Sara Mostafavi (Statistics and
   Medical Genetics, University of British Columbia).
@@ -94,8 +86,8 @@ BC Centre for Excellence in HIV/AIDS                            Jan. - Aug. 2014
   bioinformatics research on HIV and hepatitis C phylogenetics.
 - Produced two first-author peer-reviewed publications with no formal training
   in biology or bioinformatics.
-- Junior developer on Python/Django software project for tracking
-  bioinformatics pipelines (github.com/cfe-lab/Kive).
+- Junior developer on Python/Django software project with Javascript/jQuery
+  frontend for tracking bioinformatics pipelines \ (github.com/cfe-lab/Kive).
 
 --------------------------------------------------------- ----------------------
 Research Assistant \                                             May - Aug. 2011
@@ -109,7 +101,6 @@ Mathematics Department, Simon Fraser University
   structures.
 
 \renewcommand{\defaultaddspace}{\olddefaultaddspace}
-\newpage
 
 ## Awards and Scholarships
 
