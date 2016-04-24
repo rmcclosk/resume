@@ -166,8 +166,6 @@ Simon Fraser University
 ## Oral Presentations
 
 --------------------------------------------------------------------------------
-[@mccloskey2016phylogenetic]
-
 [@mccloskey2013reconstructing]
 
 [@mccloskey2013statistical]
